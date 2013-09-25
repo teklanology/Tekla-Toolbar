@@ -1,0 +1,75 @@
+﻿<root>
+  <MenuItem ID="Modelling" OnClick="Folder">
+    <MenuItem ID="Insert Shop Applied Studs.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Insert Shop Applied Studs.cs" />
+    <MenuItem ID="Split Members.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Split Members.cs" />
+    <MenuItem ID="Create Overlapping Parts.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Create Overlapping Parts.cs" />
+    <MenuItem ID="Import Custom Components.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Import Custom Components.cs" />
+    <MenuItem ID="Change End Codes.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Change End Codes.cs" />
+    <MenuItem ID="Create PG Sections.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Create PG Sections.cs" />
+  </MenuItem>
+  <MenuItem ID="Drawing" OnClick="Folder">
+    <MenuItem ID="Editing" OnClick="Folder">
+      <MenuItem ID="Convert Weld.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Convert Weld.cs" />
+      <MenuItem ID="Convert Weld and Swap Sides.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Convert Weld and Swap Sides.cs" />
+      <MenuItem ID="-" />
+      <MenuItem ID="Add Stud Notation to Dimension.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Add Stud Notation to Dimension.cs" />
+      <MenuItem ID="-" />
+      <MenuItem ID="Copy Drawing Objects.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Copy Drawing Objects.cs" />
+      <MenuItem ID="-" />
+      <MenuItem ID="Search Drawing Text.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Search Drawing Text.cs" />
+      <MenuItem ID="Drawing Offset.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Drawing Offset.cs" />
+    </MenuItem>
+    <MenuItem ID="Copy Drawing Sheets.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Copy Drawing Sheets.cs" />
+    <MenuItem ID="Create GA Drawings.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Create GA Drawings.cs" />
+    <MenuItem ID="Create GA Register.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Create GA Register.cs" />
+    <MenuItem ID="Create PG Typical View.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Create PG Typical View.cs" />
+    <MenuItem ID="Name Selected Drawings by Name.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Name Selected Drawings by Name.cs" />
+    <MenuItem ID="Print Drawings.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Print Drawings.cs" />
+    <MenuItem ID="Remove All Mark Changes.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Remove All Mark Changes.cs" />
+    <MenuItem ID="-" />
+    <MenuItem ID="Find Assembly Drawing.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Find Assembly Drawing.cs" />
+    <MenuItem ID="Find Drawing File.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Find Drawing File.cs" />
+    <MenuItem ID="Get Drawings.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Get Drawings.cs" />
+    <MenuItem ID="Get Phase Assembly Drawings.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Get Phase Assembly Drawings.cs" />
+    <MenuItem ID="Get Phase Drawings.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Get Phase Drawings.cs" />
+    <MenuItem ID="Add End Codes to GA Drawing.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Add End Codes to GA Drawing.cs" />
+  </MenuItem>
+  <MenuItem ID="View" OnClick="Folder">
+    <MenuItem ID="Create Plan View from Part.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Create Plan View from Part.cs" />
+    <MenuItem ID="Create Plan View from Point.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Create Plan View from Point.cs" />
+    <MenuItem ID="Create View of Selected Objects in Model.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Create View of Selected Objects in Model.cs" />
+    <MenuItem ID="Zoom to Selected (Rendered Views Only).cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Zoom to Selected (Rendered Views Only).cs" />
+    <MenuItem ID="-" />
+    <MenuItem ID="Take Screenshot.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Take Screenshot.cs" />
+  </MenuItem>
+  <MenuItem ID="Tools" OnClick="Folder">
+    <MenuItem ID="Open Current Contracts.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Open Current Contracts.cs" />
+    <MenuItem ID="Create Issue Folder.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Create Issue Folder.cs" />
+    <MenuItem ID="-" />
+    <MenuItem ID="Inquire Point.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Inquire Point.cs" />
+    <MenuItem ID="Inquire Centre of Gravity.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Inquire Centre of Gravity.cs" />
+    <MenuItem ID="Get Owner of Selected Object.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Get Owner of Selected Object.cs" />
+    <MenuItem ID="-" />
+    <MenuItem ID="Get Cuts from Selected Parts.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Get Cuts from Selected Parts.cs" />
+    <MenuItem ID="Get Bolts from Selected Parts.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Get Bolts from Selected Parts.cs" />
+    <MenuItem ID="-" />
+    <MenuItem ID="Run Updates.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Run Updates.cs" />
+    <MenuItem ID="-" />
+    <MenuItem ID="Create Phase NC.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Create Phase NC.cs" />
+    <MenuItem ID="Create Phase Reports.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Create Phase Reports.cs" />
+    <MenuItem ID="-" />
+    <MenuItem ID="List Marks.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\List Marks.cs" />
+    <MenuItem ID="Get Model Properties Of Drawing Object.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Get Model Properties Of Drawing Object.cs" />
+  </MenuItem>
+  <MenuItem ID="Projects" OnClick="Folder">
+    <MenuItem ID="Westfield Bradford" OnClick="Folder">
+      <MenuItem ID="Create Modified Drawings.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Create Modified Drawings.cs" />
+      <MenuItem ID="Modify Selected Bolt Standard 8.8XOX.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Modify Selected Bolt Standard 8.8XOX.cs" />
+      <MenuItem ID="Send 'Z' Mark to Prelim.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Send 'Z' Mark to Prelim.cs" />
+      <MenuItem ID="Send Assembly Mark to Userfield4.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Send Assembly Mark to Userfield4.cs" />
+    </MenuItem>
+  </MenuItem>
+  <MenuItem ID="Help" OnClick="Folder">
+    <MenuItem ID="Help Page.cs" OnClick="C:\TeklaStructures\16.1\environments\KWP\user-macros\modeling\TeklaToolbar\Help Page.cs" />
+  </MenuItem>
+</root>

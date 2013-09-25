@@ -1,0 +1,65 @@
+C:\Dale\My Dropbox\Programming\Tekla\Applications\TeklaToolbar\obj\Debug\TeklaToolbar.exe
+C:\Dale\My Dropbox\Programming\Tekla\Applications\TeklaToolbar\obj\Debug\TeklaToolbar.pdb
+C:\Dale\My Dropbox\Programming\Tekla\Applications\TeklaToolbar\bin\Debug\TeklaToolbar.exe
+C:\Dale\My Dropbox\Programming\Tekla\Applications\TeklaToolbar\bin\Debug\TeklaToolbar.pdb
+C:\Dale\My Dropbox\Programming\Tekla\Applications\TeklaToolbar\obj\Debug\ResolveAssemblyReference.cache
+C:\Dale\My Dropbox\Programming\Tekla\Applications\TeklaToolbar\obj\Debug\TeklaToolbar.Form1.resources
+C:\Dale\My Dropbox\Programming\Tekla\Applications\TeklaToolbar\obj\Debug\TeklaToolbar.Properties.Resources.resources
+C:\Dale\My Dropbox\Programming\Tekla\Applications\TeklaToolbar\obj\Debug\TeklaToolbar.csproj.GenerateResource.Cache
+C:\Dale\My Dropbox\Programming\Tekla\Applications\TeklaToolbar\bin\Debug\Mono.Cecil.dll
+C:\Dale\My Dropbox\Programming\Tekla\Applications\TeklaToolbar\bin\Debug\Tekla.Structures.Plugins.dll
+C:\Dale\My Dropbox\Programming\Tekla\Applications\TeklaToolbar\bin\Debug\PluginManager.dll
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\Tekla\Applications\TeklaToolbar\obj\Debug\TeklaToolbar.exe
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\Tekla\Applications\TeklaToolbar\obj\Debug\TeklaToolbar.pdb
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1\obj\Debug\TeklaToolbar.exe
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1\obj\Debug\TeklaToolbar.pdb
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1\bin\Debug\TeklaToolbar.exe
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1\bin\Debug\TeklaToolbar.pdb
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1\bin\Debug\Mono.Cecil.dll
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1\bin\Debug\Tekla.Structures.Plugins.dll
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1\bin\Debug\PluginManager.dll
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1\obj\Debug\ResolveAssemblyReference.cache
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1\obj\Debug\TeklaToolbar.Properties.Resources.resources
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1\obj\Debug\TeklaToolbar.csproj.GenerateResource.Cache
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1\obj\Debug\TeklaToolbar.TeklaToolbar.resources
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1\bin\Debug\TeklaToolbar.exe.config
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1\bin\Debug\TeklaToolbar.XML
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1 - Copy\bin\Debug\TeklaToolbar.exe.config
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1 - Copy\obj\Debug\TeklaToolbar.exe
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1 - Copy\obj\Debug\TeklaToolbar.pdb
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1 - Copy\obj\Debug\ResolveAssemblyReference.cache
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1 - Copy\obj\Debug\TeklaToolbar.Properties.Resources.resources
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1 - Copy\obj\Debug\TeklaToolbar.csproj.GenerateResource.Cache
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1 - Copy\bin\Debug\TeklaToolbar.exe
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1 - Copy\bin\Debug\TeklaToolbar.pdb
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1 - Copy\bin\Debug\Mono.Cecil.dll
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1 - Copy\bin\Debug\Tekla.Structures.Plugins.dll
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1 - Copy\bin\Debug\PluginManager.dll
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1 - Copy\obj\Debug\TeklaToolbar.OptionsForm.resources
+C:\Dale\My Dropbox\Programming\git\TeklaToolbar\16.1 - Copy\obj\Debug\TeklaToolbar.TeklaToolbarForm.resources
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.1 - Copy\bin\Debug\TeklaToolbar.exe.config
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.1 - Copy\obj\Debug\TeklaToolbar.exe
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.1 - Copy\obj\Debug\TeklaToolbar.pdb
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\bin\Debug\TeklaToolbar.exe.config
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\obj\Debug\TeklaToolbar.exe
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\obj\Debug\TeklaToolbar.pdb
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\obj\Debug\TeklaToolbar.OptionsForm.resources
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\obj\Debug\TeklaToolbar.TeklaToolbarForm.resources
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\obj\Debug\TeklaToolbar.Properties.Resources.resources
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\obj\Debug\TeklaToolbar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\bin\Debug\TeklaToolbar.exe
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\bin\Debug\TeklaToolbar.pdb
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\bin\Release\TeklaToolbar.exe.config
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\bin\Release\TeklaToolbar.exe
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\bin\Release\TeklaToolbar.pdb
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\obj\Release\TeklaToolbar.OptionsForm.resources
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\obj\Release\TeklaToolbar.TeklaToolbarForm.resources
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\obj\Release\TeklaToolbar.Properties.Resources.resources
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\obj\Release\TeklaToolbar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\obj\Release\TeklaToolbar.exe
+C:\Documents and Settings\Dale\My Documents\Dropbox\Programming\git\teklatoolbar\16.0\obj\Release\TeklaToolbar.pdb
+C:\Dale\Dropbox\Programming\Projects to Sort\Tekla-Toolbar\16.0\bin\Release\TeklaToolbar.exe.config
+C:\Dale\Dropbox\Programming\Projects to Sort\Tekla-Toolbar\16.0\obj\Release\TeklaToolbar.exe
+C:\Dale\Dropbox\Programming\Projects to Sort\Tekla-Toolbar\16.0\obj\Release\TeklaToolbar.pdb

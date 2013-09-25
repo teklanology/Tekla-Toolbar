@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<TreeView>
+  <node text="View" tag="Folder">
+    <node text="Create Plan View from Point.cs" tag="C:TeklaStructures16.0environmentsukuser-macrosmodelingTeklaToolbarCreate Plan View from Point.cs"/>
+    <node text="Create Plan View from Part.cs" tag="C:TeklaStructures16.0environmentsukuser-macrosmodelingTeklaToolbarCreate Plan View from Part.cs"/>
+    <node text="Create View of Selected Objects in Model.cs" tag="C:TeklaStructures16.0environmentsukuser-macrosmodelingTeklaToolbarCreate View of Selected Objects in Model.cs"/>
+    <node text="Take Screenshot.cs" tag="C:TeklaStructures16.0environmentsukuser-macrosmodelingTeklaToolbarTake Screenshot.cs"/>
+    <node text="Zoom to Selected (Rendered Views Only).cs" tag="C:TeklaStructures16.1environmentsKWPuser-macrosmodelingTeklaToolbarZoom to Selected (Rendered Views Only).cs"/>
+  </node>
+  <node text="Drawings" tag="Folder">
+    <node text="Editing" tag="Folder"/>
+  </node>
+  <node text="Modelling" tag="Folder"/>
+</TreeView>

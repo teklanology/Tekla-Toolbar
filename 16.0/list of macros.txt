@@ -1,0 +1,94 @@
+
+view-Zoom to Selected (Rendered Views Only)
+
+Add End Codes to GA Drawing
+
+drawings-editing-bolts-Add Stud Notation to Dimension
+
+Change End Codes
+
+drawings-editing-welds-Convert Weld
+
+drawings-editing-welds-Convert Weld and Swap Sides
+
+drawings-editing-Copy Drawing Objects
+
+drawings-Copy Drawing Sheets
+
+drawings-Create GA Drawings
+
+drawings-Create GA Register
+
+Create Issue Folder
+
+drawings-Create Modified Drawings
+
+Create PG Sections
+
+drawings-Create PG Typical View
+
+Create Phase NC
+
+Create Phase Reports
+
+view-Create Plan View from Part
+
+view-Create Plan View from Point
+
+view-Create View of Selected Objects in Model
+
+Find Assembly Drawing
+
+Find Drawing File
+
+drawings-Fix GA Marks
+
+drawings-Fix GA Marks (to merge)
+
+modelling-Get Bolts from Selected Parts
+
+modelling-Get Cuts from Selected Parts
+
+drawings-Get Drawings
+
+drawings-Get Model Properties Of Drawing Object
+
+drawings-Get Phase Assembly Drawings
+
+drawings-Get Phase Drawings
+
+help-Help Page
+
+modelling-Import Custom Components
+
+Inquire Point
+
+List Marks
+
+modelling-Modify Selected Bolt Standard 8.8XOX
+
+drawings-Name Selected Drawings by Name
+
+Open Current Contracts
+
+modelling-Create Overlapping Parts
+
+drawings-Print Drawings
+
+drawings-Remove All Mark Changes
+
+Run Updates
+
+drawings-Search Drawing Text
+
+Send Assembly Mark to Userfield4
+
+Send 'Z' Mark to Prelim
+
+modelling-Shop Applied Studs
+
+modelling-Split Members
+
+SubGrades
+
+view-Take Screenshot
